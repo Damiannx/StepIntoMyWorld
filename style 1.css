@@ -1,0 +1,18 @@
+Body{
+background-image: url(booty.jpg);
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+}
+
+#suit{
+position: relative; top: -20px
+}
+
+#footer{
+position: relative; bottom: 50px
+}
+
+.gallery{ 
+position: relative; right: 5px
+}
